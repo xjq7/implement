@@ -35,3 +35,21 @@
 ## promise
 
 Promise A+
+
+## js
+
+1. bind
+
+2. call
+
+3. deepClone
+
+4. event 类
+
+5. instanceOf
+
+6. mergeSort 归并排序
+
+7. new 
+
+8. quickSort 快排
